@@ -1,0 +1,2 @@
+https://www.kaggle.com/competitions/rsna-pneumonia-detection-challenge/data
+https://huggingface.co/datasets/kellly/RSNA-Pneumonia-Detection/blob/main/rsna-pneumonia-detection-challenge.zip
