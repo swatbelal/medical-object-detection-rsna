@@ -1,0 +1,16 @@
+ultralytics==8.3.33
+torch==2.3.0
+torchvision==0.18.0
+torchaudio==2.3.0
+
+albumentations
+opencv-python
+pycocotools
+matplotlib
+pydicom
+pandas
+numpy
+tqdm
+
+# Detectron2 wheels are built per CUDA/PyTorch version
+# git+https://github.com/facebookresearch/detectron2.git
